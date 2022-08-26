@@ -1,4 +1,4 @@
-# kerong_root_-prefix_word
+# Root_Prefix_word
 
 | 單字(300) | 詞性 | 中文翻譯  |
 |-|-|-|
