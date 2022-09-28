@@ -1,217 +1,329 @@
 # Root_Prefix_word
 
-| 單字(300) | 詞性 | 中文翻譯  |
-|-|-|-|
-| act | 動詞 | 扮演  |
-| active | 形容詞 | 活躍的  |
-| inactive | 形容詞 | 不活躍的  |
-| actor | 名詞 | 男演員  |
-| actress | 名詞 | 女演員  |
-| activity | 名詞 | 活動  |
-| activist | 名詞 | 行動主義者  |
-| actual | 形容詞 | 事實上  |
-| actually | 副詞 | 實際上  |
-| technically | 副詞 | 技術上來說,嚴格地來說  |
-| pact | 名詞 | 契約(treaty、contract)  |
-| tact | 名詞 | 機智，機靈  |
-| tactic | 名詞 | 策略，戰術(strategy)  |
-| react | 動詞 | 做出反應  |
-| enact | 動詞 | 制定(法律);扮演(角色)  |
-| exact | 形容詞 | 確切的  |
-| interact | 動詞 | 互相作用  |
-| intact | 形容詞 | 完整無缺的  |
-| impact | 動詞/名詞 | 擠壓/衝擊、影響  |
-| contact | 動詞/名詞 | 接觸/隱形眼鏡  |
-| compact | 形容詞/動詞/名詞 | 緊密;結實/使緊密;使簡潔/小型轎車  |
-| artifact | 名詞 | 人工製品  |
-| bureau | 名詞 | 事務處  |
-| bureaucracy | 名詞 | 官僚  |
-| democarcy | 名詞 | 民主  |
-| democratic | 形容詞 | 有民主精神的  |
-| democrat  | 名詞 | 民主主義者  |
-| autocracy | 名詞 | 獨裁  |
-| autocratic | 形容詞 | 獨裁的;專制的  |
-| autocrat  | 名詞 | 獨裁者  |
-| intimate | 形容詞/名詞 | 親密的/至交;密友  |
-| intimacy | 名詞 | 熟悉  |
-| pharmacy | 名詞 | 藥房  |
-| diplomacy | 名詞 | 外交  |
-| diplomatic | 形容詞 | 外交的  |
-| diplomat | 名詞 | 外交官  |
-| diploma | 名詞 | 畢業文憑  |
-| accuracy | 名詞 | 正確  |
-| literacy | 名詞 | 識字  |
-| literate | 形容詞 | 有文化修養的  |
-| literal | 形容詞 | 照字面的  |
-| literally | 副詞 | 照字面地  |
-| literary | 形容詞 | 文學的  |
-| literature | 名詞 | 文學作品  |
-| comspiracy | 名詞 | 陰謀  |
-| private | 形容詞 | 私人的  |
-| privacy | 名詞 | 私事  |
-| fade | 動詞 | 凋謝  |
-| jade | 名詞 | 玉  |
-| blade | 名詞 | 刀片  |
-| grade | 動詞/名詞 | 將…分類/年級;分數  |
-| upgrade | 動詞/名詞 | 使升級;上坡  |
-| degrade | 動詞 | 貶低  |
-| shade | 動詞/名詞 | 遮蔽/陰涼處  |
-| spade | 名詞 | 鏟  |
-| trade | 動詞/名詞 | 進行交易/貿易  |
-| wade | 動詞/名詞 | 涉水而行;艱難的前進/跋涉  |
-| lemonade | 名詞 | 檸檬水  |
-| invade | 動詞 | 侵入  |
-| parade | 動詞 | 遊行  |
-| comrade | 名詞 | 夥伴  |
-| persuade | 動詞 | 說服  |
-| dissuade | 動詞 | 勸阻  |
-| staff | 動詞/名詞 | 給…配備職員/職員  |
-| crew | 名詞 | 全體船員  |
-| stiff | 形容詞/副詞 | 硬的/僵硬地  |
-| stuff | 動詞/名詞 | 裝/材料  |
-| chaff | 名詞/動詞 | 玩笑/戲弄  |
-| age | 動詞/名詞 | 使變老/年齡  |
-| cage | 動詞/名詞 | 把…關進籠子/鳥籠  |
-| cabbage | 名詞 | 包心菜  |
-| bandage | 動詞/名詞 | 用繃帶包紮/繃帶  |
-| bondage | 名詞 | 奴隸(slave)  |
-| baggage | 名詞 | 行李  |
-| luggage | 名詞 | 行李  |
-| engage | 動詞 | 使訂婚;使忙於  |
-| engagement | 名詞 | 訂婚;諾言;雇用;交戰  |
-| carry | 動詞 | 提;搬運  |
-| carriage | 名詞 | 運輸  |
-| marry | 動詞 | 結婚  |
-| marriage | 名詞 | 婚姻  |
-| image | 名詞 | 影像  |
-| damage | 動詞/名詞 | 損害/損害  |
-| manage | 動詞 | 管理  |
-| management | 名詞 | 管理  |
-| rage | 動詞/名詞 | 發怒/狂怒  |
-| outrage | 動詞/名詞 | 激怒/暴行  |
-| outrageous | 形容詞 | 可恥的;無法無天(shocking)  |
-| average | 名詞/形容詞/動詞 | 平均  |
-| beverage | 名詞 | 飲料  |
-| coverage | 名詞 | 覆蓋範圍;新聞報導  |
-| courage | 名詞 | 勇氣  |
-| encourage | 動詞 | 鼓勵  |
-| encouragement | 名詞 | 鼓勵;獎勵  |
-| discourage | 動詞 | 使洩氣  |
-| discouragement | 名詞 | 沮喪  |
-| garage | 動詞/名詞 | 把(汽車等)送入車庫(或修理廠)車庫  |
-| dose | 動詞/名詞 | 給..服藥/一劑  |
-| dosage | 名詞 | 劑量  |
-| dozen | 名詞 | 一打  |
-| massage | 動詞/名詞 | 給…按摩/推拿  |
-| message | 名詞 | 消息  |
-| passage | 名詞 | 走廊  |
-| sausage | 名詞 | 香腸  |
-| usage | 名詞 | 使用  |
-| stage | 動詞/名詞 | 上演/舞台  |
-| postage | 名詞 | 郵資  |
-| cottage | 名詞 | 小屋  |
-| hostage | 名詞 | 人質  |
-| shortage | 名詞 | 缺少  |
-| vintage | 形容詞/名詞 | 上等的/葡萄酒  |
-| outage | 名詞 | 中斷供應  |
-| heritage | 名詞 | 遺產  |
-| advantage | 名詞 | 優勢  |
-| disadvantge | 動詞/名詞 | 處於不利地位/不利條件  |
-| ravage | 動詞/名詞 | 蹂躪/毀滅  |
-| savage | 形容詞/動詞/名詞 | 野性的/兇猛地攻擊/野蠻人  |
-| wage | 動詞/名詞 | 從事/薪水  |
-| voyage | 動詞/名詞 | 航行/乘船旅遊  |
-| mile | 名詞 | 英里  |
-| milestone | 名詞 | 里程碑  |
-| mileage | 名詞 | 總英里數  |
-| orphan | 動詞/名詞 | 使成孤兒/孤兒  |
-| orphanage | 名詞 | 孤兒院  |
-| store | 動詞/名詞 | 收存/商店  |
-| resotre | 動詞 | 恢復  |
-| resotration | 名詞 | 恢復  |
-| storage | 名詞 | 貯藏  |
-| percent | 名詞 | 百分之一  |
-| percentage | 名詞 | 百分率  |
-| pack | 動詞/名詞 | 包裝/一小包  |
-| package | 動詞/名詞 | 打包/包裹  |
-| aid | 動詞/名詞 | 有助於/幫助  |
-| raid | 動詞/名詞 | 襲擊/突然襲擊  |
-| braid | 動詞/名詞 | 編成辮子/辮子  |
-| maid | 名詞 | 侍女  |
-| mermaid | 名詞 | 美人魚  |
-| faint | 形容詞/動詞/名詞 | 頭暈的/昏厥/昏厥  |
-| paint | 動詞/名詞 | 圖畫/塗料  |
-| saint | 動詞/名詞 | 使成為聖徒/聖徒  |
-| acquaint | 動詞 | 使認識  |
-| complaint | 名詞 | 抱怨  |
-| restraint | 名詞 | 克制  |
-| bake | 動詞 | 烘  |
-| fake | 形容詞/動詞/名詞 | 假的/偽造/冒牌貨  |
-| sake | 名詞 | 理由  |
-| wake | 動詞 | 叫醒  |
-| brake | 動詞/名詞 | 煞車/煞車  |
-| flake | 動詞/名詞 | 使成薄片/小薄  |
-| quake | 動詞/名詞 | 顫抖/地震  |
-| awake | 形容詞/動詞 | 醒著/換醒  |
-| forsake | 動詞 | 拋棄  |
-| pancake | 名詞 | 薄煎餅  |
-| fame | 名詞 | 名聲  |
-| lame | 形容詞/動詞 | 跛腳的/使跛腳  |
-| tame | 形容詞/動詞 | 經馴服的/馴化  |
-| blame | 動詞/名詞 | 歸咎於/責備  |
-| flame | 動詞/名詞 | 燃燒/火焰  |
-| frame | 動詞/名詞 | 給…裝架子/股架  |
-| shame | 動詞/名詞 | 使感到羞恥/羞恥  |
-| camp | 動詞/名詞 | 露營/營地  |
-| lamp | 名詞 | 燈  |
-| clamp | 動詞/名詞 | 夾住/螺絲鉗  |
-| damp | 形容詞/動詞/名詞 | 有濕氣的/使潮濕/濕氣  |
-| cramp | 動詞/名詞 | 約束/抽筋  |
-| stamp | 動詞/名詞 | 蓋印/印章  |
-| swamp | 動詞/名詞 | 淹沒/沼澤  |
-| tramp | 動詞/名詞 | 流浪/流浪者  |
-| ban | 動詞/名詞 | 禁止/禁令  |
-| fan | 動詞/名詞 | 扇/風扇  |
-| pan  | 名詞 | 平鍋  |
-| tan | 形容詞/動詞/名詞 | 棕褐色/曬成棕褐色/棕褐色  |
-| van | 名詞 | 有蓋小貨車  |
-| clan  | 名詞 | 家族  |
-| calm | 形容詞/動詞/名詞 | 寧靜的/變安靜/鎮定  |
-| plan | 動詞/名詞 | 計畫/計畫  |
-| palm | 動詞/名詞 | 把…藏在手中/手心  |
-| scan | 動詞/名詞 | 審視/掃描  |
-| span | 動詞/名詞 | 跨越/一段時間  |
-| swan | 名詞 | 天鵝  |
-| orphan | 動詞/名詞 | 使成孤兒/孤兒  |
-| orphanage | 名詞 | 孤兒院  |
-| veteran | 名詞 | 富有經驗的人  |
-| ranch | 動詞/名詞 | 經營牧場/大牧場  |
-| branch | 動詞/名詞 | 分支/樹枝;分店  |
-| cane | 名詞 | 藤條  |
-| lane | 名詞 | 車道  |
-| pane | 名詞 | 窗玻璃片  |
-| sane | 形容詞 | 頭腦清楚的  |
-| insane | 形容詞 | 精神錯亂的  |
-| insanity | 名詞 | 神經錯亂  |
-| crane | 動詞/名詞 | 伸頸/吊車  |
-| plane | 名詞 | 飛機  |
-| airplane | 名詞 | 飛機  |
-| hurricane | 名詞 | 暴風雨  |
-| bang | 動詞/副詞/名詞 | 發出砰的一聲/突然/猛擊;瀏海  |
-| gang | 動詞/名詞 | 成群/一幫  |
-| hang | 動詞 | 掛起  |
-| slang | 動詞/名詞 | 用粗語罵人/俚語  |
-| dwarf | 形容詞/動詞/名詞 | 矮小的/阻礙生長/矮子  |
-| scarf | 名詞 | 圍巾  |
-| wharf | 動詞/名詞 | 靠碼頭/碼頭  |
-| large | 形容詞 | 大的  |
-| enlarge | 動詞 | 擴大  |
-| enlargement | 名詞 | 放大  |
-| charge | 動詞/名詞 | 充電/費用  |
-| discharge | 動詞/名詞 | 卸貨/解放  |
-| haste | 動詞/名詞 | 急忙  |
-| paste | 動詞/名詞 | 黏貼/漿糊  |
-| taste | 動詞/名詞 | 嘗/味道  |
+| 單字 | 中文翻譯  |
+|-|-|
+| act | 扮演  |
+| active | 活躍的  |
+| inactive | 不活躍的  |
+| actor | 男演員  |
+| actress | 女演員  |
+| activity | 活動  |
+| activist | 行動主義者  |
+| actual | 事實上  |
+| actually | 實際上  |
+| technically | 技術上來說,嚴格地來說  |
+| pact | 契約(treaty、contract)  |
+| tact | 機智，機靈  |
+| tactic | 策略，戰術(strategy)  |
+| react | 做出反應  |
+| enact | 制定(法律);扮演(角色)  |
+| exact | 確切的  |
+| interact | 互相作用  |
+| intact | 完整無缺的  |
+| impact | 擠壓/衝擊、影響  |
+| contact | 接觸/隱形眼鏡  |
+| compact | 緊密;結實/使緊密;使簡潔/小型轎車  |
+| artifact | 人工製品  |
+| bureau | 事務處  |
+| bureaucracy | 官僚  |
+| democarcy | 民主  |
+| democratic | 有民主精神的  |
+| democrat  | 民主主義者  |
+| autocracy | 獨裁  |
+| autocratic | 獨裁的;專制的  |
+| autocrat  | 獨裁者  |
+| intimate | 親密的/至交;密友  |
+| intimacy | 熟悉  |
+| pharmacy | 藥房  |
+| diplomacy | 外交  |
+| diplomatic | 外交的  |
+| diplomat | 外交官  |
+| diploma | 畢業文憑  |
+| accuracy | 正確  |
+| literacy | 識字  |
+| literate | 有文化修養的  |
+| literal | 照字面的  |
+| literally | 照字面地  |
+| literary | 文學的  |
+| literature | 文學作品  |
+| comspiracy | 陰謀  |
+| private | 私人的  |
+| privacy | 私事  |
+| fade | 凋謝  |
+| jade | 玉  |
+| blade | 刀片  |
+| grade | 將…分類/年級;分數  |
+| upgrade | 使升級;上坡  |
+| degrade | 貶低  |
+| shade | 遮蔽/陰涼處  |
+| spade | 鏟  |
+| trade | 進行交易/貿易  |
+| wade | 涉水而行;艱難的前進/跋涉  |
+| lemonade | 檸檬水  |
+| invade | 侵入  |
+| parade | 遊行  |
+| comrade | 夥伴  |
+| persuade | 說服  |
+| dissuade | 勸阻  |
+| staff | 給…配備職員/職員  |
+| crew | 全體船員  |
+| stiff | 硬的/僵硬地  |
+| stuff | 裝/材料  |
+| chaff | 玩笑/戲弄  |
+| age | 使變老/年齡  |
+| cage | 把…關進籠子/鳥籠  |
+| cabbage | 包心菜  |
+| bandage | 用繃帶包紮/繃帶  |
+| bondage | 奴隸(slave)  |
+| baggage | 行李  |
+| luggage | 行李  |
+| engage | 使訂婚;使忙於  |
+| engagement | 訂婚;諾言;雇用;交戰  |
+| carry | 提;搬運  |
+| carriage | 運輸  |
+| marry | 結婚  |
+| marriage | 婚姻  |
+| image | 影像  |
+| damage | 損害/損害  |
+| manage | 管理  |
+| management | 管理  |
+| rage | 發怒/狂怒  |
+| outrage | 激怒/暴行  |
+| outrageous | 可恥的;無法無天(shocking)  |
+| average | 平均  |
+| beverage | 飲料  |
+| coverage | 覆蓋範圍;新聞報導  |
+| courage | 勇氣  |
+| encourage | 鼓勵  |
+| encouragement | 鼓勵;獎勵  |
+| discourage | 使洩氣  |
+| discouragement | 沮喪  |
+| garage | 把(汽車等)送入車庫(或修理廠)車庫  |
+| dose | 給..服藥/一劑  |
+| dosage | 劑量  |
+| dozen | 一打  |
+| massage | 給…按摩/推拿  |
+| message | 消息  |
+| passage | 走廊  |
+| sausage | 香腸  |
+| usage | 使用  |
+| stage | 上演/舞台  |
+| postage | 郵資  |
+| cottage | 小屋  |
+| hostage | 人質  |
+| shortage | 缺少  |
+| vintage | 上等的/葡萄酒  |
+| outage | 中斷供應  |
+| heritage | 遺產  |
+| advantage | 優勢  |
+| disadvantge | 處於不利地位/不利條件  |
+| ravage | 蹂躪/毀滅  |
+| savage | 野性的/兇猛地攻擊/野蠻人  |
+| wage | 從事/薪水  |
+| voyage | 航行/乘船旅遊  |
+| mile | 英里  |
+| milestone | 里程碑  |
+| mileage | 總英里數  |
+| orphan | 使成孤兒/孤兒  |
+| orphanage | 孤兒院  |
+| store | 收存/商店  |
+| resotre | 恢復  |
+| resotration | 恢復  |
+| storage | 貯藏  |
+| percent | 百分之一  |
+| percentage | 百分率  |
+| pack | 包裝/一小包  |
+| package | 打包/包裹  |
+| aid | 有助於/幫助  |
+| raid | 襲擊/突然襲擊  |
+| braid | 編成辮子/辮子  |
+| maid | 侍女  |
+| mermaid | 美人魚  |
+| faint | 頭暈的/昏厥/昏厥  |
+| paint | 圖畫/塗料  |
+| saint | 使成為聖徒/聖徒  |
+| acquaint | 使認識  |
+| complaint | 抱怨  |
+| restraint | 克制  |
+| bake | 烘  |
+| fake | 假的/偽造/冒牌貨  |
+| sake | 理由  |
+| wake | 叫醒  |
+| brake | 煞車/煞車  |
+| flake | 使成薄片/小薄  |
+| quake | 顫抖/地震  |
+| awake | 醒著/換醒  |
+| forsake | 拋棄  |
+| pancake | 薄煎餅  |
+| fame | 名聲  |
+| lame | 跛腳的/使跛腳  |
+| tame | 經馴服的/馴化  |
+| blame | 歸咎於/責備  |
+| flame | 燃燒/火焰  |
+| frame | 給…裝架子/股架  |
+| shame | 使感到羞恥/羞恥  |
+| camp | 露營/營地  |
+| lamp | 燈  |
+| clamp | 夾住/螺絲鉗  |
+| damp | 有濕氣的/使潮濕/濕氣  |
+| cramp | 約束/抽筋  |
+| stamp | 蓋印/印章  |
+| swamp | 淹沒/沼澤  |
+| tramp | 流浪/流浪者  |
+| ban | 禁止/禁令  |
+| fan | 扇/風扇  |
+| pan  | 平鍋  |
+| tan | 棕褐色/曬成棕褐色/棕褐色  |
+| van | 有蓋小貨車  |
+| clan  | 家族  |
+| calm | 寧靜的/變安靜/鎮定  |
+| plan | 計畫/計畫  |
+| palm | 把…藏在手中/手心  |
+| scan | 審視/掃描  |
+| span | 跨越/一段時間  |
+| swan | 天鵝  |
+| orphan | 使成孤兒/孤兒  |
+| orphanage | 孤兒院  |
+| veteran | 富有經驗的人  |
+| ranch | 經營牧場/大牧場  |
+| branch | 分支/樹枝;分店  |
+| cane | 藤條  |
+| lane | 車道  |
+| pane | 窗玻璃片  |
+| sane | 頭腦清楚的  |
+| insane | 精神錯亂的  |
+| insanity | 神經錯亂  |
+| crane | 伸頸/吊車  |
+| plane | 飛機  |
+| airplane | 飛機  |
+| hurricane | 暴風雨  |
+| bang | 發出砰的一聲/突然/猛擊;瀏海  |
+| gang | 成群/一幫  |
+| hang | 掛起  |
+| slang | 用粗語罵人/俚語  |
+| dwarf | 矮小的/阻礙生長/矮子  |
+| scarf | 圍巾  |
+| wharf | 靠碼頭/碼頭  |
+| large | 大的  |
+| enlarge | 擴大  |
+| enlargement | 放大  |
+| charge | 充電/費用  |
+| discharge | 卸貨/解放  |
+| haste | 急忙  |
+| paste | 黏貼/漿糊  |
+| taste | 嘗/味道  |
+| taste bud  | 味蕾  |
+| waste | 浪費  |
+| drastic | 激烈的  |
+| plastic | 可塑的/塑膠  |
+| elastic | 有彈性的/橡皮圈  |
+| fantastic | 奇妙的  |
+| enthusiastic | 熱情的  |
+| dynasty | 王朝  |
+| hasty | 倉促的  |
+| nasty | 齷齪的  |
+| tasty | 高雅的  |
+| skate | 溜冰/溜冰鞋  |
+| create | 創造  |
+| creation | 創立  |
+| creative | 有創造力  |
+| creativity | 創造力  |
+| creator | 創作者  |
+| creature | 生物  |
+| debate | 辯論  |
+| rebate | 退還(部分退款)/折扣  |
+| compensate | 補償  |
+| compensation | 補償  |
+| fault | 挑…毛病/過錯  |
+| vault | 撐竿跳過/地窖  |
+| assault | 攻擊/暴行  |
+| aunt | 姑媽  |
+| haunt | 縈繞/常去之處  |
+| haunted | 鬧鬼的  |
+| taunt | 辱罵  |
+| cause | 導致/原因  |
+| clause | 條款  |
+| pause | 終止/間歇  |
+| applause | 喝采  |
+| applaud | 稱讚  |
+| behave | 舉動  |
+| brave | 勇敢的  |
+| cave | 塌落/洞穴  |
+| grave | 嚴重的/墓穴  |
+| pave | 鋪(路)  |
+| shave | 刮(鬍子)/刮鬍刀  |
+| shaved ice | 刨冰  |
+| slave | 苦幹/奴隸  |
+| weave | 編/編法  |
+| jaw | 責罵/下顎  |
+| law | 法律  |
+| outlaw | 禁止/罪犯  |
+| paw | 抓/腳爪  |
+| raw | 生的  |
+| claw | 抓/腳爪  |
+| draw | 畫/平手  |
+| withdraw | 提取  |
+| withdrawal | 提款  |
+| flaw | 始有缺陷/瑕疵  |
+| gnaw | 啃  |
+| straw | 稻草;吸管  |
+| ax | 解雇/斧  |
+| fax | 傳真傳輸/傳真通訊  |
+| tax | 向…課稅/稅金  |
+| wax | 給…上蠟/蠟  |
+| relax | 鬆懈  |
+| climax | 達到頂點/最高點  |
+| amaze | 使大為驚奇  |
+| blaze | 燃燒/火焰  |
+| graze | 吃草/放牧  |
+| gaze | 凝視  |
+| stargaze | 眺望星星  |
+| ban | 禁止  |
+| urban | 城市的  |
+| suburban | 郊區的  |
+| bang | 碰的一聲/正好/猛擊  |
+| bangs | 瀏海  |
+| gang | 結夥/一幫  |
+| hang | 掛起  |
+| slang | 欺騙/俚語  |
+| hobby | 嗜好  |
+| lobby | 大廳  |
+| chubby | 圓胖的  |
+| shabby | 破爛的  |
+| ability | 能力  |
+| stability | 穩定的  |
+| capability | 能力  |
+| credibility | 可信性  |
+| disability | 殘障  |
+| possibility | 可能性  |
+| responsibility | 責任  |
+| bid | 喊價/出價  |
+| bit | 小片  |
+| orbit | 繞軌道運行/運行軌道  |
+| habit | 習慣  |
+| inhabitant | 居民  |
+| referendum | 公投  |
+| bullet | 子彈  |
+| ballistic | 彈道  |
+| missile | 導彈  |
+| coast | 海岸  |
+| peninsula | 半島  |
+| Seoul | 首爾  |
+| posture | 姿勢  |
+| provocative | 挑釁  |
+| further | 更遠  |
+| ferry  | 渡輪  |
+| lyrics | 歌詞  |
+| tremendous | 巨大  |
+| obsessed | 癡迷  |
+| dramatic | 戲劇化  |
+| embrace  | 擁抱  |
+| Village | 村莊  |
+| controversy  | 爭論  |
+| relevant  | 有關  |
+| democracy | 民主  |
+| profound | 深刻的  |
+
 | taste bud  | 片語 | 味蕾  |
 | waste | 動詞/名詞 | 浪費  |
 | drastic | 形容詞 | 激烈的  |
