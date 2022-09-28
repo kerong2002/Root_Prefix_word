@@ -323,7 +323,6 @@
 | relevant  | 有關  |
 | democracy | 民主  |
 | profound | 深刻的  |
-
 | taste bud  | 片語 | 味蕾  |
 | waste | 動詞/名詞 | 浪費  |
 | drastic | 形容詞 | 激烈的  |
